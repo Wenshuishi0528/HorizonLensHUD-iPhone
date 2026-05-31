@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Build output
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager / tooling caches
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods / Carthage, if added later
+Pods/
+Carthage/Build/
+
+# Fastlane, if added later
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Archives and local backups
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*_backup/
+*备份*/
+*稳定版*/
