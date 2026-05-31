@@ -1,8 +1,8 @@
-# HUD2
+# HorizonLens HUD for iPhone
 
-HUD2 is an experimental SwiftUI iPhone HUD app. It overlays aircraft-style flight data on top of the live camera preview and uses iPhone sensors to show attitude, heading, speed, altitude, vertical speed, G load, audio level, a mini map, photo capture, screen recording, and CSV logging.
+HorizonLens HUD for iPhone is an experimental SwiftUI camera HUD app. It overlays aircraft-style flight data on top of the live camera preview and uses iPhone sensors to show attitude, heading, speed, altitude, vertical speed, G load, audio level, a mini map, photo capture, screen recording, and CSV logging.
 
-HUD2 是一个实验性的 SwiftUI iPhone HUD 小程序。它以相机实时画面为背景，在上面叠加姿态、航向、速度、高度、垂直速度、G 值、音量电平、小地图、拍照、录屏和 CSV 数据记录等信息。
+HorizonLens HUD for iPhone 是一个实验性的 SwiftUI iPhone 相机 HUD 小程序。它以相机实时画面为背景，在上面叠加姿态、航向、速度、高度、垂直速度、G 值、音量电平、小地图、拍照、录屏和 CSV 数据记录等信息。
 
 ## Features
 
@@ -30,6 +30,8 @@ HUD2 是一个实验性的 SwiftUI iPhone HUD 小程序。它以相机实时画�
 4. In the target signing settings, choose your own Apple development team.
 5. Change the bundle identifier if Xcode reports that it is already in use.
 6. Build and run on a physical iPhone.
+
+The public-facing app name is HorizonLens HUD. The Xcode project, scheme, and source folder currently keep the original `HUD2` internal name to avoid unnecessary project churn.
 
 ## Project Structure
 

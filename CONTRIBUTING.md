@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for considering a contribution to HUD2.
+Thanks for considering a contribution to HorizonLens HUD for iPhone.
 
 ## Development Setup
 

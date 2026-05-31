@@ -414,7 +414,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HUD2/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = HUD2;
+				INFOPLIST_KEY_CFBundleDisplayName = "HorizonLens HUD";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "连接外设传感器。";
 				INFOPLIST_KEY_NSCameraUsageDescription = "需要访问相机以显示 HUD 取景。";
@@ -432,7 +432,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.liuhaobo.HUD2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.HorizonLensHUD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -451,7 +451,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HUD2/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = HUD2;
+				INFOPLIST_KEY_CFBundleDisplayName = "HorizonLens HUD";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "连接外设传感器。";
 				INFOPLIST_KEY_NSCameraUsageDescription = "需要访问相机以显示 HUD 取景。";
@@ -469,7 +469,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.liuhaobo.HUD2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.HorizonLensHUD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
